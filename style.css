@@ -54,7 +54,7 @@ body {
     cursor: pointer;
 }
 
-/* .insta_button:hover */
+/* .insta_button:hover, */
 .new_quote:hover {
     filter: brightness(90%);
 }
